@@ -10,7 +10,7 @@ Este é um projeto de **Kit de Bateria** interativo feito com HTML, CSS e JavaSc
 
 ## 🚀 Demonstração
 
-Você pode acessar a demo do projeto [aqui](drumkit-psi-sooty.vercel.app).
+Você pode acessar a demo do projeto [aqui](drumkit-psi-sooty.vercel.app)
 
 ## 📜 Funcionalidades
 
