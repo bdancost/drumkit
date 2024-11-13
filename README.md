@@ -1,12 +1,12 @@
 # DRUM KIT 🥁
 
-![Status](https://img.shields.io/badge/status-active-brightgreen) ![License](https://img.shields.io/badge/license-MIT-blue)
+![Status](https://img.shields.io/badge/status-active-brightgreen)
 
 ### 🎶 Toque seu próprio tambor virtual!
 
 Este é um projeto de **Kit de Bateria** interativo feito com HTML, CSS e JavaScript. Com ele, você pode tocar sons de bateria ao clicar nas teclas da interface ou pressionar teclas específicas no teclado.
 
-![Drum Kit Screenshot](./img/drumkit.png) <!-- Substitua pelo caminho correto para a imagem -->
+![Drum Kit Screenshot](./img/back.jpg) <!-- Substitua pelo caminho correto para a imagem -->
 
 ## 🚀 Demonstração
 
@@ -105,9 +105,3 @@ const tocarSom = (letra) => {
   /* Código de reprodução de som */
 };
 ```
-
-### 📌 Tags e Ícones
-
-Para ícones e badgets adicionais, você pode consultar [Shields.io](https://shields.io/) para gerar outros ícones personalizados para status, linguagem, licença e muito mais.
-
----
